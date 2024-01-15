@@ -1,0 +1,11 @@
+com\onegeneration\anything\imageservice\controller\ImageServiceController.class
+com\onegeneration\anything\imageservice\dtos\ImageResponseDTO.class
+com\onegeneration\anything\imageservice\config\ImageServiceConfiguration.class
+com\onegeneration\anything\imageservice\service\ImageService.class
+com\onegeneration\anything\imageservice\service\ImageServiceImpl.class
+com\onegeneration\anything\imageservice\utils\ImageUtil.class
+com\onegeneration\anything\imageservice\dtos\ImageResponseDTO$ImageResponseDTOBuilder.class
+com\onegeneration\anything\imageservice\repository\ImageRepository.class
+com\onegeneration\anything\imageservice\ImageServiceApplication.class
+com\onegeneration\anything\imageservice\model\Image$ImageBuilder.class
+com\onegeneration\anything\imageservice\model\Image.class

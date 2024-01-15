@@ -1,0 +1,11 @@
+com\onegeneration\anything\categoryservice\config\CategoryConfiguration.class
+com\onegeneration\anything\categoryservice\dto\CategoryResponseDTO$CategoryResponseDTOBuilder.class
+com\onegeneration\anything\categoryservice\model\Category$CategoryBuilder.class
+com\onegeneration\anything\categoryservice\repository\CategoryRepository.class
+com\onegeneration\anything\categoryservice\dto\CategoryRequestDTO.class
+com\onegeneration\anything\categoryservice\service\CategoryServiceImpl.class
+com\onegeneration\anything\categoryservice\controller\CategoryController.class
+com\onegeneration\anything\categoryservice\model\Category.class
+com\onegeneration\anything\categoryservice\service\CategoryService.class
+com\onegeneration\anything\categoryservice\CategoryServiceApplication.class
+com\onegeneration\anything\categoryservice\dto\CategoryResponseDTO.class

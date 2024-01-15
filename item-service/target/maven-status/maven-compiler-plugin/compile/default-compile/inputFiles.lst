@@ -1,0 +1,14 @@
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\model\Item.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\config\ItemConfiguration.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\model\ItemStatus.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\dtos\AddressResponseDTO.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\service\ItemService.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\repository\ItemRepository.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\service\ItemServiceImpl.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\dtos\ItemResponseDTO.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\ItemServiceApplication.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\model\Cardinality.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\repository\AddressRepository.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\controller\ItemController.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\converter\CardinalityConverter.java
+D:\My Data\projects\workspaces\springjava\anything-parent\item-service\src\main\java\com\onegeneration\anything\itemservice\model\Address.java

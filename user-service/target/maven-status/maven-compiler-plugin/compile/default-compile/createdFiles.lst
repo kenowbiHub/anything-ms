@@ -1,0 +1,10 @@
+com\onegeneration\anything\userservice\dtos\AppUserResponseDTO$AppUserResponseDTOBuilder.class
+com\onegeneration\anything\userservice\dtos\AppUserResponseDTO.class
+com\onegeneration\anything\userservice\model\AppUser.class
+com\onegeneration\anything\userservice\model\AppUser$AppUserBuilder.class
+com\onegeneration\anything\userservice\service\AppUserService.class
+com\onegeneration\anything\userservice\UserServiceApplication.class
+com\onegeneration\anything\userservice\controller\AppUserController.class
+com\onegeneration\anything\userservice\service\AppUserServiceImpl.class
+com\onegeneration\anything\userservice\repository\AppUserRepository.class
+com\onegeneration\anything\userservice\config\UserServiceConfiguration.class
